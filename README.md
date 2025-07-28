@@ -89,4 +89,4 @@ Feel free to fork the repository and submit pull requests. Issues and feature re
 
 ## License
 
-MIT © 2024
+MIT
