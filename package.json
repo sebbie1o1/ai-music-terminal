@@ -1,0 +1,18 @@
+{
+  "name": "music-terminal-ui",
+  "version": "1.0.0",
+  "description": "Music Terminal UI for macOS – control the native Music.app from your terminal",
+  "main": "index.js",
+  "bin": {
+    "music-tui": "index.js"
+  },
+  "author": "sebbie1o1",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^4.1.2",
+    "openai": "^5.10.2",
+    "marked": "^12.0.2",
+    "marked-terminal": "^5.1.1"
+  }
+}
