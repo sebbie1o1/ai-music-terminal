@@ -38,8 +38,8 @@ Ideal for keyboard-centric users, TUI fans, or remote control via SSH.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/music-terminal-ui.git
-cd music-terminal-ui
+git clone https://github.com/sebbie1o1/ai-music-terminal.git
+cd ai-music-terminal
 npm install
 ```
 
